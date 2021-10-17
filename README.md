@@ -7,3 +7,9 @@
 
 - youtube-dl -F <video_url> 
 - youtube-dl -f 37<video_url> 
+
+  
+  
+  
+  ## Noted for blog on svm, LR, LinReg
+  https://www.quora.com/What-is-the-difference-between-Linear-SVMs-and-Logistic-Regression
