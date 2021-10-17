@@ -12,4 +12,5 @@
   
 ## Note for blog on svm, LR, LinReg
   https://www.quora.com/What-is-the-difference-between-Linear-SVMs-and-Logistic-Regression
+  
   http://www.cs.columbia.edu/~blei/fogm/2016F/doc/glms.pdf
