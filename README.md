@@ -14,3 +14,15 @@
   https://www.quora.com/What-is-the-difference-between-Linear-SVMs-and-Logistic-Regression
   
   http://www.cs.columbia.edu/~blei/fogm/2016F/doc/glms.pdf
+  
+  https://bjlkeng.github.io/posts/a-probabilistic-view-of-regression/
+  
+  https://homes.cs.washington.edu/~marcotcr/blog/concavity/
+  
+  https://math.stackexchange.com/questions/1582452/logistic-regression-prove-that-the-cost-function-is-convex
+  
+  https://www.quora.com/Is-logistic-regression-cost-function-convex
+  
+  http://www.cs.toronto.edu/%7Ekswersky/wp-content/uploads/svm_vs_lr.pdf
+
+  https://towardsdatascience.com/understanding-binary-cross-entropy-log-loss-a-visual-explanation-a3ac6025181a
