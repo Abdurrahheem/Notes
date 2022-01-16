@@ -26,3 +26,5 @@
   http://www.cs.toronto.edu/%7Ekswersky/wp-content/uploads/svm_vs_lr.pdf
 
   https://towardsdatascience.com/understanding-binary-cross-entropy-log-loss-a-visual-explanation-a3ac6025181a
+  
+  https://github.com/jermwatt/machine_learning_refined
