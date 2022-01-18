@@ -28,3 +28,5 @@
   https://towardsdatascience.com/understanding-binary-cross-entropy-log-loss-a-visual-explanation-a3ac6025181a
   
   https://github.com/jermwatt/machine_learning_refined
+  
+  https://towardsdatascience.com/why-sigmoid-a-probabilistic-perspective-42751d82686
