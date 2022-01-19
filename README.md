@@ -30,3 +30,5 @@
   https://github.com/jermwatt/machine_learning_refined
   
   https://towardsdatascience.com/why-sigmoid-a-probabilistic-perspective-42751d82686
+  
+  http://colah.github.io/posts/2015-09-Visual-Information/
