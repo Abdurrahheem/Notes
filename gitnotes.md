@@ -7,10 +7,6 @@
 
     The git reflog command is useful for tracking the history of changes to the local repository's references. It can help you see which branches and tags were created, deleted, or updated, and when these changes were made. This information can be useful for recovering lost or deleted branches, or for tracking the history of changes to the local repository.
 
-- `git rebase` 
-    
-    Is a command in Git that is used to move a branch to a new base commit. The git rebase command is useful for rewriting the project history by creating new commits for existing commits. It can be used to combine multiple commits into one commit, or to split one commit into multiple commits. It can also be used to change the base commit of a branch, or to move a branch to a new base commit.
-
 - `git reset --sort HEAD~1`
 
     This command will reset the HEAD to the last commit. This is useful when you want to undo a commit but keep the changes.
