@@ -22,3 +22,11 @@
 - `git push --force <remote> <commit-code>:<remote-branch-name>`
         
     This command will force push a commit to a remote branch. This is useful when you want to force push a commit to a remote branch.
+
+- `git checkout <modifiyed file name>`
+    
+    This command will discard the changes in a file. This is useful when you want to discard the changes in a file.
+
+- `git checkout `
+        
+    This command will discard the changes in all files. This is useful when you want to discard the changes in all files.
