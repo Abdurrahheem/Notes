@@ -30,3 +30,8 @@
 - `git checkout `
         
     This command will discard the changes in all files. This is useful when you want to discard the changes in all files.
+
+- `git submodule`
+
+   This command will pring out all names of submodules present in repository
+
