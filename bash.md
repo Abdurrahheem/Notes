@@ -1,0 +1,3 @@
+- ' comm -12 <(find . -maxdepth 1 -type f -printf '%f\n' | sort) <(find /media/disk/abduragim/data/coco/train2017_MVGA/ -maxdepth 1 -type f -printf '%f\n' | head -60000 | sort)'
+
+compare file names in two directories. -printf '%f\n' prints only file names, without full path. -maxdepth 1 means only files in the current directory. -type f means only files. -head -60000 means only first 60000 files. -comm -12 means only files that are in both directories.
